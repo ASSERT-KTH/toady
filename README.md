@@ -1,10 +1,11 @@
 # Project Toady
 
-Project Toady is a research project funded by the Kingdom of Sweden about the importance of humor in science. We are investigating the following research questions:
+In project Toady we investigate the importance of different forms of humor in science software. It is a long-term research project funded by the Kingdom of Sweden. We are investigating the following research questions:
 
 - to what extent does humor contribute to scientific excellence?
 - to what extent does humor contribute to training top caliber PhD students?
 - to what extent does humor contribute to outreach?
+- to what extent does humor contribute to engineering critical software?
 
 Principal investigators: Prof. Benoit Baudry, Prof. Martin Monperrus
 
