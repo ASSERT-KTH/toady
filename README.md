@@ -1,6 +1,6 @@
 # Project Toady
 
-In project Toady we investigate the importance of different forms of humor in science software. It is a long-term research project funded by the Kingdom of Sweden. We are investigating the following research questions:
+In project Toady we investigate the importance of different forms of humor in science and software. It is a long-term research project funded by the Kingdom of Sweden. We are investigating the following research questions:
 
 - to what extent does humor contribute to scientific excellence?
 - to what extent does humor contribute to training top caliber PhD students?
