@@ -30,5 +30,6 @@ ORCID: https://orcid.org/0000-0002-0209-2805
 Here we acknowledge the members of the guild for humor in science
 
 - [Harry Q. Bovik](https://www.cs.cmu.edu/afs/cs/usr/bovik/www/index.html), for his [prolific contribution](https://scholar.google.com/scholar?hl=sv&as_sdt=0%2C5&q=harry+bovik&btnG=) to humor in science and for the creation of the [SIGBOVIK](https://sigbovik.org/)
+- [Les horribles cernettes](https://en.wikipedia.org/wiki/Les_Horribles_Cernettes), for their unique blend of style and physics
 
 
