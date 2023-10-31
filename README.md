@@ -24,3 +24,12 @@ ORCID: https://orcid.org/0000-0002-0209-2805
 - [Exhaustive Survey of Rickrolling in Academic Literature](http://arxiv.org/pdf/2204.06826) ([doi:10.48550/arXiv.2204.06826](https://doi.org/10.48550/arXiv.2204.06826)), SIGBOVIK 2022
 - [Long Live Software Easter Eggs!](https://dl.acm.org/doi/pdf/10.1145/3534857) ([doi:10.1145/3534857](https://doi.org/10.1145/3534857)), ACM Queue 2022
 
+## The Guild
+
+Here we acknowledge the members of the guild for humor in science
+
+- [Harry Q. Bovik](https://www.cs.cmu.edu/afs/cs/usr/bovik/www/index.html), for his [prolific contribution](Harry Q. Bovik
+https://www.cs.cmu.edu/afs/cs/usr/bovik/www/index.html
+https://scholar.google.com/scholar?hl=sv&as_sdt=0%2C5&q=harry+bovik&btnG=) to humor in science and for the creation of the [SIGBOVIK](https://sigbovik.org/)
+
+
