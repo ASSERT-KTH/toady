@@ -11,6 +11,8 @@ Principal investigators: Prof. Benoit Baudry, Prof. Martin Monperrus
 
 Contact: [toady@eecs.kth.se](mailto:toady@eecs.kth.se)
 
+ORCID: https://orcid.org/0000-0002-0209-2805
+
 ## Medias 
 
 - [Versteckte Botschaften – Easter Eggs in wissenschaftlichen Fachpublikationen](https://www.deutschlandfunkkultur.de/versteckte-botschaften-easter-eggs-in-wissenschaftlichen-fachpublikationen-dlf-kultur-16a63755-100.html), podcast Deutschlandfunk Kultur, 2023
@@ -18,6 +20,7 @@ Contact: [toady@eecs.kth.se](mailto:toady@eecs.kth.se)
 
 ## Publications
 
+- [Automatic Specialization of Third-Party Java Dependencies](https://arxiv.org/pdf/2302.08370) ([doi:10.1109/TSE.2023.3324950](https://doi.org/10.1109/TSE.2023.3324950)), IEEE TSE 2023
 - [Exhaustive Survey of Rickrolling in Academic Literature](http://arxiv.org/pdf/2204.06826) ([doi:10.48550/arXiv.2204.06826](https://doi.org/10.48550/arXiv.2204.06826)), SIGBOVIK 2022
 - [Long Live Software Easter Eggs!](https://dl.acm.org/doi/pdf/10.1145/3534857) ([doi:10.1145/3534857](https://doi.org/10.1145/3534857)), ACM Queue 2022
 
