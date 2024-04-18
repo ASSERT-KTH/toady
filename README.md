@@ -20,11 +20,13 @@ ORCID: https://orcid.org/0000-0002-0209-2805
 - [WebAssembly Diversification for Malware Evasion](https://arxiv.org/pdf/2212.08427) [doi:10.1016/j.cose.2023.103296](https://doi.org/10.1016/j.cose.2023.103296), Computers & Security, 2023
 - [Exhaustive Survey of Rickrolling in Academic Literature](http://arxiv.org/pdf/2204.06826) ([doi:10.48550/arXiv.2204.06826](https://doi.org/10.48550/arXiv.2204.06826)), SIGBOVIK 2022
 - [Long Live Software Easter Eggs!](https://dl.acm.org/doi/pdf/10.1145/3534857) ([doi:10.1145/3534857](https://doi.org/10.1145/3534857)), ACM Queue 2022
+- [93% of Paint Splatters are Valid Perl Programs](https://www.mcmillen.dev/sigbovik/)
 
 ## Related Work
 
 - [The Bourbaki project](https://en.wikipedia.org/wiki/Nicolas_Bourbaki)
-- [Harry Q. Bovik](https://www.cs.cmu.edu/afs/cs/usr/bovik/www/index.html), for his [prolific contribution](https://scholar.google.com/scholar?hl=sv&as_sdt=0%2C5&q=harry+bovik&btnG=) to humor in science and for the creation of the [SIGBOVIK](https://sigbovik.org/)
+- [The Camille Noûs project](https://en.wikipedia.org/wiki/Camille_No%C3%BBs)
+- [The Harry Q. Bovik project](https://www.cs.cmu.edu/afs/cs/usr/bovik/www/index.html), for his [prolific contribution](https://scholar.google.com/scholar?hl=sv&as_sdt=0%2C5&q=harry+bovik&btnG=) to humor in science and for the creation of the [SIGBOVIK](https://sigbovik.org/)
 - [Les horribles cernettes](https://en.wikipedia.org/wiki/Les_Horribles_Cernettes), for their unique blend of style and physics
 
 
