@@ -30,6 +30,6 @@ ORCID: https://orcid.org/0000-0002-0209-2805
 - [The Harry Q. Bovik project](https://www.cs.cmu.edu/afs/cs/usr/bovik/www/index.html), for his [prolific contribution](https://scholar.google.com/scholar?hl=sv&as_sdt=0%2C5&q=harry+bovik&btnG=) to humor in science and for the creation of the [SIGBOVIK](https://sigbovik.org/)
 - [Les horribles cernettes](https://en.wikipedia.org/wiki/Les_Horribles_Cernettes), for their unique blend of style and physics
 - [Josiah S. Carberry](https://en.wikipedia.org/wiki/Josiah_S._Carberry), a fictional professor, created as a joke in 1929, who was awarded an [Ig Nobel in 1991](https://en.wikipedia.org/wiki/List_of_Ig_Nobel_Prize_winners#Apocryphal_achievements)
-- [Ig Nobel](https://en.wikipedia.org/wiki/List_of_Ig_Nobel_Prize_winners#Apocryphal_achievements) who featured three fictional recipients for fictional achievements
+- [Ig Nobel](https://en.wikipedia.org/wiki/List_of_Ig_Nobel_Prize_winners#Apocryphal_achievements) featured three fictional recipients for fictional achievements
 
 
